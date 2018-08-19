@@ -1,4 +1,4 @@
-# Blog 011: Re-organizing myself for the nth time
+# Re-organizing myself for the nth time
 ## August 18, 2018
 
 Trying to focus on this write-up while sitting in this crowded Starbucks. Loud, chaotic, people laughing out loud embraces while eating a warm french toast. I can survive this place. White hot chocolate is my go-to drink during this cozy, cold and messy weather. 
