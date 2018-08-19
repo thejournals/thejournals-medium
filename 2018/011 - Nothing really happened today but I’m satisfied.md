@@ -1,4 +1,4 @@
-# Blog 011: Nothing really happened today but I’m satisfied
+# Nothing really happened today but I’m satisfied
 ## August 19, 2018
 
 Yeah. Nothing really happened surprising today but I managed to download some stuffs that I could start **re**learn for the next past few days. Last year, I’ve subscribed and bought some tutorials on *[a cloud guru](https://acloud.guru)* about **[Amazon Web Services](https://aws.amazon.com)**. Through 3 months of study, I was able to learn more about the future of the *cloud*. Then I stopped. I stopped because in that same year, a lot happened from work which I did not have any much time to focus on the tutorials. I slacked too and enjoyed few parties. Focused my time on applying on companies and for the past 6 months was just work.
